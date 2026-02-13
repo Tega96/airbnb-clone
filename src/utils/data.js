@@ -18,23 +18,23 @@ export const NAV = [
 ]
 
 export const PROFILE = [
-    {src: '/assets/images/image 2.png', profileName: 'Villa Arrecife Beach House', location: 'Sidemen, Bali, Indonesia', rating: '4.76', bed: '4', bath: '2', people: '2-4', price: '2,450'},
-    {src: '/assets/images/image 3.png', profileName: 'Entire cabin', location: 'Nova Friburgo, Brazil', rating: '4.76', bed: '1', bath: '1', people: '3', price: '62'},
-    {src: '/assets/images/image 4.png', profileName: 'Earthen home', location: 'Santa Marta, Colombia', rating: '5', bed: '4', bath: '2', people: '6', price: '386'},
-    {src: '/assets/images/image 5.png', profileName: 'Private room', location: 'Moeda, Brazil', rating: '3.58', bed: '1', bath: '1', people: '2', price: '134'},
-    {src: '/assets/images/image 6.png', profileName: 'Gokce Gemile Estate', location: 'Kayaköy, Turkey', rating: '4.75', bed: '6', bath: '6', people: '12', price: '980'},
-    {src: '/assets/images/image 7.png', profileName: 'Luxury 1000 sqm Villa...', location: 'Luxury 1000 sqm Villa...', rating: '4.98', bed: '6', bath: '6', people: '12', price: '1430'},
-    {src: '/assets/images/image 8.png', profileName: 'Palais Hassoun Marrakech', location:'Marrakech, Morocco', rating: '3.29', bed: '13', bath:'13', people: '26', price: '3,800'  },
-    {src: '/assets/images/image 9.png', profileName: 'Villa Lamp', location: 'Benahavis, Spain', rating: '4.19', bed: '7', bath: '7', people: '12', price: '2,041'},
-    {src: '/assets/images/image 10.png', profileName: 'Marrakech, Morocco', location: 'Marrakech, Morocco', rating: '4.5', bed: '13', bath: '13', people: '26', price: '3,450'},
-    {src: '/assets/images/image 11.png', profileName: 'Villa Lamp', location: 'Benahavis, Spain', rating: '3.7', bed: '8', bath: '7', people: '14', price: '1009'},
-    {src: '/assets/images/image 12.png', profileName: 'Designer villa, pool not ...', location: 'Marrakech, Morocco', rating: '3.2', bed: '6', bath: '6', people: '12', price: '1289'},
-    {src: '/assets/images/image 13.png', profileName: 'Royal Zephyr - Marrakech', location: 'Marrakesh, Morocco', rating: '2.9', bed: '6', bath: '7', people: '12', price: '1692'},
-    {src: '/assets/images/image 14.png', profileName: 'Rïad Mayo & Bungalows', location: 'Rïad Mayo & Bungalows', rating: '4.1', bed: '21', bath: '18', people: '16+', price: '865'},
-    {src: '/assets/images/image 15.png', profileName: 'Casa de Carolina', location: 'Casa de Carolina', rating: '3.8', bed: '1', bath: '1', people: '4', price: '215'},
-    {src: '/assets/images/image 16.png', profileName: 'Happy Valley Villa, Tuni...', location: 'Qaroun, Egypt', rating: '4.75', bed: '7', bath: '3', people: '8', price: '100'},
-    {src: '/assets/images/image 17.png', profileName: 'Almyros Residence', location: 'Lasithi, Greece', rating: '4.76', bed: '6', bath: '4', people: '10', price: '747'},
-    {src: '/assets/images/image 18.png', profileName: 'Villa White Stone mode...', location: 'Marrakech, Morocco', rating: '5.0', bed: '7', bath: '6', people: '12', price: ''},
+    {id: 1, src: '/assets/images/image 2.png', profileName: 'Villa Arrecife Beach House', location: 'Sidemen, Bali, Indonesia', rating: '4.76', bed: '4', bath: '2', people: '2-4', price: '2,450'},
+    {id: 2, src: '/assets/images/image 3.png', profileName: 'Entire cabin', location: 'Nova Friburgo, Brazil', rating: '4.76', bed: '1', bath: '1', people: '3', price: '62'},
+    {id: 3, src: '/assets/images/image 4.png', profileName: 'Earthen home', location: 'Santa Marta, Colombia', rating: '5', bed: '4', bath: '2', people: '6', price: '386'},
+    {id: 4, src: '/assets/images/image 5.png', profileName: 'Private room', location: 'Moeda, Brazil', rating: '3.58', bed: '1', bath: '1', people: '2', price: '134'},
+    {id: 5, src: '/assets/images/image 6.png', profileName: 'Gokce Gemile Estate', location: 'Kayaköy, Turkey', rating: '4.75', bed: '6', bath: '6', people: '12', price: '980'},
+    {id: 6, src: '/assets/images/image 7.png', profileName: 'Luxury 1000 sqm Villa...', location: 'Luxury 1000 sqm Villa...', rating: '4.98', bed: '6', bath: '6', people: '12', price: '1430'},
+    {id: 7, src: '/assets/images/image 8.png', profileName: 'Palais Hassoun Marrakech', location:'Marrakech, Morocco', rating: '3.29', bed: '13', bath:'13', people: '26', price: '3,800'  },
+    {id: 8, src: '/assets/images/image 3.png', profileName: 'Villa Lamp', location: 'Benahavis, Spain', rating: '4.19', bed: '7', bath: '7', people: '12', price: '2,041'},
+    {id: 9, src: '/assets/images/image 10.png', profileName: 'Marrakech, Morocco', location: 'Marrakech, Morocco', rating: '4.5', bed: '13', bath: '13', people: '26', price: '3,450'},
+    {id: 10, src: '/assets/images/image 11.png', profileName: 'Villa Lamp', location: 'Benahavis, Spain', rating: '3.7', bed: '8', bath: '7', people: '14', price: '1009'},
+    {id: 11, src: '/assets/images/image 12.png', profileName: 'Designer villa, pool not ...', location: 'Marrakech, Morocco', rating: '3.2', bed: '6', bath: '6', people: '12', price: '1289'},
+    {id: 12, src: '/assets/images/image 13.png', profileName: 'Royal Zephyr - Marrakech', location: 'Marrakesh, Morocco', rating: '2.9', bed: '6', bath: '7', people: '12', price: '1692'},
+    {id: 13, src: '/assets/images/Image 1.png', profileName: 'Rïad Mayo & Bungalows', location: 'Rïad Mayo & Bungalows', rating: '4.1', bed: '21', bath: '18', people: '16+', price: '865'},
+    {id: 14, src: '/assets/images/image 15.png', profileName: 'Casa de Carolina', location: 'Casa de Carolina', rating: '3.8', bed: '1', bath: '1', people: '4', price: '215'},
+    {id: 15, src: '/assets/images/image 16.png', profileName: 'Happy Valley Villa, Tuni...', location: 'Qaroun, Egypt', rating: '4.75', bed: '7', bath: '3', people: '8', price: '100'},
+    {id: 16, src: '/assets/images/image 17.png', profileName: 'Almyros Residence', location: 'Lasithi, Greece', rating: '4.76', bed: '6', bath: '4', people: '10', price: '747'},
+    {id: 17, src: '/assets/images/image 18.png', profileName: 'Villa White Stone mode...', location: 'Marrakech, Morocco', rating: '5.0', bed: '7', bath: '6', people: '12', price: ''},
 ]
 
-export const title = ['Top Villa', 'Self CheckIn', 'Free Reschedule']
+export const category = ['Top Villa', 'Self CheckIn', 'Free Reschedule']
